@@ -1,0 +1,10 @@
+D:\Repositories\InsightGroup\InsightGroup\bin\Debug\InsightGroup.exe.config
+D:\Repositories\InsightGroup\InsightGroup\bin\Debug\InsightGroup.exe
+D:\Repositories\InsightGroup\InsightGroup\bin\Debug\InsightGroup.pdb
+D:\Repositories\InsightGroup\InsightGroup\obj\Debug\InsightGroup.csprojAssemblyReference.cache
+D:\Repositories\InsightGroup\InsightGroup\obj\Debug\InsightGroup.Form1.resources
+D:\Repositories\InsightGroup\InsightGroup\obj\Debug\InsightGroup.Properties.Resources.resources
+D:\Repositories\InsightGroup\InsightGroup\obj\Debug\InsightGroup.csproj.GenerateResource.cache
+D:\Repositories\InsightGroup\InsightGroup\obj\Debug\InsightGroup.csproj.CoreCompileInputs.cache
+D:\Repositories\InsightGroup\InsightGroup\obj\Debug\InsightGroup.exe
+D:\Repositories\InsightGroup\InsightGroup\obj\Debug\InsightGroup.pdb

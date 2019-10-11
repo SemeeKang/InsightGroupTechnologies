@@ -8,3 +8,4 @@ D:\Repositories\InsightGroup\InsightGroup\obj\Debug\InsightGroup.csproj.Generate
 D:\Repositories\InsightGroup\InsightGroup\obj\Debug\InsightGroup.csproj.CoreCompileInputs.cache
 D:\Repositories\InsightGroup\InsightGroup\obj\Debug\InsightGroup.exe
 D:\Repositories\InsightGroup\InsightGroup\obj\Debug\InsightGroup.pdb
+D:\Repositories\InsightGroup\InsightGroup\obj\Debug\InsightGroup.FormNumberData.resources

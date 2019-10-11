@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms.DataVisualization.Charting;
 
 namespace InsightGroup
 {
@@ -10,15 +11,14 @@ namespace InsightGroup
     {
         public double X { get; set; }
         public double Y { get; set; }
-
-        public double length;
-        public int index;
+        public double Length { get; set; }
+        public int Index { get; set; }
 
         public SupplierPoint(int index,  double x, double y)
         {
             this.X = x;
             this.Y = y;
-            this.index = index;
+            this.Index = index;
         }
 
         public int CompareTo(object obj)
@@ -27,7 +27,7 @@ namespace InsightGroup
             if (value == null)
                 throw new Exception("This is not SupplierPoint object");
 
-            return length.CompareTo(value.length);
+            return Length.CompareTo(value.Length);
         }
     }
 }

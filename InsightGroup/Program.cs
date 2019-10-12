@@ -16,7 +16,7 @@ namespace InsightGroup
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormNumberData());
+            Application.Run(new Form1());
         }
     }
 }

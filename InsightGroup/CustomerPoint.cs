@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿/*
+    Author: Semee Kang, Mohawk College
+*/
 namespace InsightGroup
 {
     class CustomerPoint
@@ -11,7 +8,7 @@ namespace InsightGroup
         public double X { get; set; }
         public double Y { get; set; }
 
-        public int Index = 0;
+        public int SupplierIdex { get; set; }
 
         public CustomerPoint(double x, double y)
         {
